@@ -23,10 +23,10 @@
 
 <h2> Controls (Fingers Detection)</h2>
 <ul>
-  <li>one finger    ->  Brake/release all pressed keys</li>
-  <li>two fingers   ->  Accelerate your car</li>
-  <li>three fingers ->  Steer your car in left direction</li>
-  <li>four fingers  ->  Steer your car in left direction</li>
-  <li>five fingers  ->  Hit the Nitro Boost</li>
+  <li>One finger    ->  Brake/release all pressed keys</li>
+  <li>Two fingers   ->  Accelerate your car</li>
+  <li>Three fingers ->  Steer your car in left direction</li>
+  <li>Four fingers  ->  Steer your car in left direction</li>
+  <li>Five fingers  ->  Hit the Nitro Boost</li>
 </ul>
 
