@@ -14,11 +14,11 @@
 <h2> How to run?</h2><br>
 <ul>
   <li>Run this game first -> https://www.topspeed.com/car-games/car-games/coaster-racer-3-ar160891.html</li>
-  <li>Now Run the program in any python IDE</li>
+  <li>Now run the program in any python IDE</li>
   <li>Press 'b' to capture the background</li>
-  <li>Move your finger to the rectangular box</li>
+  <li>Position your hand properly into the Yelow rectangular box</li>
   <li>Now control the keyboard keys using your hand/fingers</li>
-  </li>Press 'ESC' to Exit from the Program</li>
+  <li>Press 'ESC' to Exit from the Program</li>
 </ul>
 
 <h2> Controls (Fingers Detection)</h2>
